@@ -4,7 +4,7 @@
     "dev": "nuxt"
   },
   "dependencies": {
-    "nuxt": "^2.8.1",
+    "nuxt": "^2.15.8",
     "v-mask": "^2.0.2",
     "vee-validate": "^2.2.15",
     "vue": "^2.6.10",
